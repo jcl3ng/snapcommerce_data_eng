@@ -2,4 +2,4 @@ Q4 Mock SQL.
 
 SELECT *
 FROM Airlines AS A
-WHERE A.From = 'WATERLOO'
+WHERE A.From = 'WATERLOO';
